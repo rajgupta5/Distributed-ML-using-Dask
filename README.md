@@ -2,6 +2,6 @@
 
 https://dask.org/
 
-Dask Array - parallel Numpy array
-Dask Dataframe - parallel Pandas
-Dask ML - parallel scikit-learn
+1. Dask Array - parallel Numpy array
+2. Dask Dataframe - parallel Pandas
+3. Dask ML - parallel scikit-learn
